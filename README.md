@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/s-sreevathson"><img src="https://img.shields.io/badge/LinkedIn-S%20Sreevathson-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/s-sreevathson-7b4b80395"><img src="https://img.shields.io/badge/LinkedIn-S%20Sreevathson-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sreevathson1530@gmail.com"><img src="https://img.shields.io/badge/Email-contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/sreevathson1530-beep"><img src="https://img.shields.io/badge/GitHub-follow-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -105,7 +105,7 @@ exploring:
 <div align="center">
 
 <a href="mailto:sreevathson1530@gmail.com"><img src="https://img.shields.io/badge/Gmail-sreevathson1530%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/s-sreevathson"><img src="https://img.shields.io/badge/LinkedIn-S%20Sreevathson-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/s-sreevathson-7b4b80395"><img src="https://img.shields.io/badge/LinkedIn-S%20Sreevathson-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sreevathson1530-beep"><img src="https://img.shields.io/badge/GitHub-sreevathson1530--beep-1e1b4b?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
