@@ -16,7 +16,7 @@
 <h2 align="center">✦ Connect With Me ✦</h2>
 
 <div align="center">
-  <a href="mailto:menaga79@gmail.com"><img src="https://img.shields.io/badge/Email-menaga79%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sreevathson1530@gmail.com"><img src="https://img.shields.io/badge/Email-sreevathson1530%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/s-sreevathson-7b4b80395"><img src="https://img.shields.io/badge/LinkedIn-Profile-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
